@@ -28,7 +28,7 @@ I'm creating an app to research preschools in the Arnold area. When my first sta
 
 ### What I'll Have to Learn
 
-  -Google Maps API
+  	-Google Maps API
 	-Javascript?
   
 Trello board: 	https://trello.com/b/ztBo4S2P/preschools
