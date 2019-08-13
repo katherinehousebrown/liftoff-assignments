@@ -13,4 +13,4 @@ https://github.com/katherinehousebrown
 https://www.linkedin.com/in/katherinehousebrown/
 
 ### Resume
-
+Located in a PDF file in liftoff-assignments/C1-Online_Profiles
