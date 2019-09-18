@@ -13,4 +13,4 @@ https://github.com/katherinehousebrown
 https://www.linkedin.com/in/katherinehousebrown/
 
 ### Resume
-
+https://github.com/katherinehousebrown/liftoff-assignments/blob/master/C1-Online_Profiles/Resume%20-%20Katherine%20Brown%20(4).pdf
